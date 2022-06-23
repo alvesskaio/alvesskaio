@@ -1,4 +1,4 @@
-### Prazer sou o Kaio 👋
+### Prazer eu sou o Kaio 👋
 
 <div align="center">
   <a href="https://github.com/alvesskaio">

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **Python, cybersecurity tools ...**
+- 🌱 I’m currently learning **Python, SQL, PHP, C++, cybersecurity tools ...**
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/1N-3LBqGqAptUw6WaA5kHND2RpgzVPwup/view?usp=sharing**
 

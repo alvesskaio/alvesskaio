@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvesskaio&label=Profile%20views&color=0e75b6&style=flat" alt="alvesskaio" /> </p>
 
-- 🔭 I’m currently working on **ersonal projects**
+- 🔭 I’m currently working on **Personal projects**
 
 - 🌱 I’m currently learning **Python, cybersecurity tools ...**
 

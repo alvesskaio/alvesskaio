@@ -45,7 +45,7 @@ Plataforma web (*PWA*) para relatos urbanos, que permite identificar, registrar 
 ## 🛠️ **Tecnologias**
 | **Linguagens**       | **Containers** | **Visualização de Dados** | **Versionamento** |
 |----------------------|----------------|---------------------|---------------------------|
-| Python, SQL         | Docker        | Power BI, Tableau, Plotly | Git, GitHub       |
+| Python, SQL         | Docker        | Power BI.  | Git, GitHub       |
 
 **Bibliotecas:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow, Keras  
 **Metodologias:** Scrum, Kanban  

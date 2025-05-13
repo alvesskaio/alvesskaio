@@ -1,33 +1,83 @@
-<h1 align="center">Hi 👋, I'm Kaio Alves</h1>
-<h3 align="center">I'm a Brazilian cybersecurity enthusiast.</h3>
+<h1 align="center">👋 Olá, eu sou o Kaio Alves</h1>
+<h3 align="center">💡 Data Science Enthusiast | Machine Learning | Visão Computacional | Inovação Tecnológica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvesskaio&label=Profile%20views&color=0e75b6&style=flat" alt="alvesskaio" /> </p>
 
-- 🔭 I’m currently working on **Personal projects**
+---
 
-- 🌱 I’m currently learning **Python, SQL, PHP, C++, cybersecurity tools ...**
+## 🎓 **Sobre Mim**
+- Estudante de **Ciência de Dados e Inteligência Artificial** no **IBMEC - Barra da Tijuca**, atualmente no 5º período.
+- Apaixonado por **Data Science**, **Machine Learning**, **Visão Computacional** e **Inovação Tecnológica**.
+- Atleta de **Jiu-Jitsu** e praticante de academia, sempre buscando superar limites.
+- Moro no **Rio de Janeiro - RJ** e estou focado em desenvolver soluções inteligentes baseadas em dados para transformar processos e gerar insights estratégicos.
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1N-3LBqGqAptUw6WaA5kHND2RpgzVPwup/view?usp=sharing**
+---
 
-- 📫 How to reach me **contato.dev.kaio@gmail.com**
+## 🚀 **Projetos em Destaque**
+### 🌐 **Projeto Vish**
+Plataforma web (*PWA*) para relatos urbanos, que permite identificar, registrar e classificar ocorrências nas cidades, utilizando:
+- ✅ **Inteligência Artificial** para categorização automática dos relatos.
+- ✅ **Banco de Dados** para armazenamento seguro e otimizado das informações.
+- ✅ **Visualização em BI** para gestores públicos tomarem decisões baseadas em dados.
+- ✅ **Automação com n8n** para integração de notificações, relatórios e comunicação em tempo real.
 
-<h3 align="left">Connect with me:</h3>
+**Público-alvo:** Cidadãos, Prefeituras e Gestores Públicos.  
+**Diferencial:** Automação inteligente para gerar insights em tempo real, otimizar a tomada de decisões e facilitar o acompanhamento de demandas urbanas.
+
+---
+
+### 🚀 **Outros Projetos**
+- **Vision:** Solução baseada em *Visão Computacional* para gerenciamento de vagas de estacionamento, otimização de tráfego e segurança.
+- **Brain Box:** Plataforma de e-learning focada em tecnologia e ciência de dados (*em desenvolvimento acadêmico*).
+
+---
+
+## 💡 **Áreas de Interesse**
+- Data Science  
+- Machine Learning  
+- Visão Computacional  
+- Big Data  
+- Business Intelligence (BI)  
+- Automação de Processos *(n8n)*  
+
+---
+
+## 🛠️ **Tecnologias**
+| **Linguagens**       | **Containers** | **Data Engineering** | **Visualização de Dados** | **Versionamento** |
+|----------------------|----------------|---------------------|---------------------------|-------------------|
+| Python, SQL         | Docker        | PySpark, Airflow    | Power BI, Tableau, Plotly | Git, GitHub       |
+
+**Bibliotecas:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow, Keras  
+**Metodologias:** Scrum, Kanban  
+
+---
+
+## 🌐 **Conecte-se comigo**
 <p align="left">
-<a href="https://linkedin.com/in/kaiosoaresalves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/kaiosoaresalves/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/g8pBsWm8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/g8pBsWm8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaiosoaresalves/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://discord.gg/g8pBsWm8" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-</p>
+📧 **E-mail para contato:** [contato.dev.kaio@gmail.com](mailto:contato.dev.kaio@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvesskaio&show_icons=true&locale=en&layout=compact" alt="alvesskaio" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvesskaio&show_icons=true&locale=en" alt="alvesskaio" /></p>
+## ✨ **Objetivo com o GitHub**
+Aqui, você vai encontrar projetos focados em **Data Science**, **Machine Learning**, **Automação de Processos** e **Visão Computacional**. Meu objetivo é transformar dados em decisões estratégicas, criar soluções urbanas inteligentes e automatizar processos para otimização de tempo e recursos.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvesskaio&" alt="alvesskaio" /></p>
+---
+
+## 🌌 **Citação Inspiradora**
+> *"Pensem que todas as maravilhas, objeto de nossos estudos, são a obra de muitas gerações, uma obra coletiva que exige de todos um esforço entusiasta e um labor difícil e impreterível. Tudo isso, nas mãos de vocês, se torna uma herança. Vocês a recebem, respeitam-na, aumentam-na e, mais tarde, irão transmiti-la fielmente a sua descendência. Deste modo somos mortais imortais, porque criamos juntos obras que nos sobrevivem."*  
+> — Albert Einstein
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesskaio&show_icons=true&locale=en&theme=radical" alt="alvesskaio" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alvesskaio&theme=radical" alt="alvesskaio" />
+</div>

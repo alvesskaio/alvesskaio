@@ -19,6 +19,10 @@ Formado em Ciência de Dados e IA pelo Ibmec, com foco em Machine Learning, Comp
 
 ## Projetos
 
+### [Projeto Vish](https://vish-interface.pages.dev/) — visão computacional aplicada a problemas urbanos
+Projeto acadêmico (Ibmec) em desenvolvimento, como responsável geral, em dupla. Classificação de problemas urbanos a partir de datasets públicos, com banco de dados próprio.
+`Python` `Computer Vision` `Banco de Dados`
+
 ### [LogFácil](#) — plataforma de gestão logística e de frota (B2B)
 Monorepo TypeScript em produção: API (Hono), web (Next.js), app mobile (React Native/Expo), banco de dados (Prisma + PostgreSQL). App publicado na Google Play Store.
 `TypeScript` `Hono` `Next.js` `React Native` `PostgreSQL` `Prisma`
@@ -30,10 +34,6 @@ Criado do zero como responsável técnico. Digitaliza e padroniza inspeções em
 ### [A10 Scout](#) — plataforma de scout & analytics para futebol
 Estruturação de dados de atletas e partidas em métricas e indicadores para apoiar decisão técnica.
 `TypeScript` `Analytics`
-
-### Projeto Vish — visão computacional aplicada a problemas urbanos
-Projeto acadêmico (Ibmec) em andamento, como responsável geral. Classificação de problemas urbanos a partir de datasets públicos.
-`Python` `Computer Vision`
 
 ---
 

@@ -1,142 +1,55 @@
 <h1 align="center">Kaio Alves</h1>
 
 <p align="center">
-Desenvolvimento Fullstack • Dados • Automação • IA aplicada a negócios
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alvesskaio&label=Profile%20views&color=0e75b6&style=flat" />
+Desenvolvedor fullstack B2B — produtos de dados, automação e IA para operações reais<br>
+Rio de Janeiro, Brasil
 </p>
 
 ---
 
 ## Sobre
 
-Atuo como **profissional de tecnologia**, com foco em desenvolvimento de soluções digitais, dados, automação e inteligência artificial aplicada a problemas reais de negócio.
+Desenvolvedor fullstack com foco em produtos B2B, automação e IA aplicada a problemas operacionais reais — do levantamento do problema até a entrega técnica (arquitetura, stack, execução).
 
-Tenho facilidade em **entender demandas que não chegam de forma técnica** e transformá-las em soluções bem estruturadas. Essa habilidade não substitui a tecnologia — ela orienta o uso correto dela. Meu trabalho começa na compreensão do problema e segue até a execução técnica, seja no desenvolvimento, na arquitetura da solução ou na organização do projeto.
+Não me limito ao papel de desenvolvedor: fui cofundador de uma agência de automação, sou criador técnico do FOCO Check e mantenho projetos próprios como LogFácil e A10 Scout — escopos diferentes que exigiram tanto código quanto decisão de negócio.
 
-Além do desenvolvimento, também participo da **estruturação de times e projetos**, quando o contexto exige múltiplas frentes técnicas ou decisões estratégicas.
-
----
-
-## Forma de trabalho
-
-<details>
-<summary><strong>Como costumo estruturar um projeto</strong></summary>
-
-- Compreensão profunda do problema e do contexto
-- Definição do que é essencial versus acessório
-- Desenho da solução (fluxos, dados, arquitetura)
-- Escolha da stack adequada ao problema
-- Execução técnica, validação e ajustes
-
-Quando necessário, o trabalho inclui a organização de pessoas, responsabilidades e prioridades.
-</details>
+Formado em Ciência de Dados e IA pelo Ibmec, com foco em Machine Learning, Computer Vision, Deep Learning e Reinforcement Learning. Atuo hoje como desenvolvedor/contratado na **iNeeds Systems**, no LogFácil.
 
 ---
 
-## Experiência & Projetos
+## Projetos
 
-<details>
-<summary><strong>Sistema de inspeção de combate a incêndio — condomínios</strong></summary>
+### [LogFácil](#) — plataforma de gestão logística e de frota (B2B)
+Monorepo TypeScript em produção: API (Hono), web (Next.js), app mobile (React Native/Expo), banco de dados (Prisma + PostgreSQL). App publicado na Google Play Store.
+`TypeScript` `Hono` `Next.js` `React Native` `PostgreSQL` `Prisma`
 
-Desenvolvimento de um sistema para controle e auditoria de inspeções de combate a incêndio em condomínios residenciais.
+### [FOCO Check](#) — sistema de gestão de inspeção de combate a incêndio
+Criado do zero como responsável técnico. Digitaliza e padroniza inspeções em condomínios: registro técnico, histórico auditável, relatórios gerenciais.
+`TypeScript` `PostgreSQL`
 
-- Digitalização de processos operacionais
-- Padronização de registros técnicos
-- Histórico organizado para fiscalização e análise
-- Base para relatórios e acompanhamento gerencial
+### [A10 Scout](#) — plataforma de scout & analytics para futebol
+Estruturação de dados de atletas e partidas em métricas e indicadores para apoiar decisão técnica.
+`TypeScript` `Analytics`
 
-Projeto construído a partir de uma necessidade operacional real.
-</details>
-
-<details>
-<summary><strong>Plataforma de scout & analytics — futebol</strong></summary>
-
-Desenvolvimento de plataforma de análise de desempenho esportivo.
-
-- Estruturação de dados de atletas e partidas
-- Criação de métricas e indicadores
-- Apoio à tomada de decisão técnica e estratégica
-
-O foco esteve em tornar dados complexos úteis para quem decide.
-</details>
-
-<details>
-<summary><strong>Agentes inteligentes e automação para negócios</strong></summary>
-
-Desenvolvimento de soluções baseadas em automação e IA para contextos empresariais.
-
-- Tradução de regras de negócio em lógica computacional
-- Integração entre sistemas, APIs e bancos de dados
-- Automação de processos repetitivos
-- Uso de IA como apoio à eficiência operacional
-</details>
-
-<details>
-<summary><strong>Consultoria técnica</strong></summary>
-
-Atuação em consultoria técnica, apoiando empresas desde a compreensão do problema até a definição e implementação da solução mais adequada.
-
-Nem sempre a melhor solução é a mais complexa — e esse ponto faz parte das decisões técnicas.
-</details>
+### Projeto Vish — visão computacional aplicada a problemas urbanos
+Projeto acadêmico (Ibmec) em andamento, como responsável geral. Classificação de problemas urbanos a partir de datasets públicos.
+`Python` `Computer Vision`
 
 ---
 
-## Tecnologias
+## Stack
 
-<details>
-<summary><strong>Stack utilizada</strong></summary>
+**Desenvolvimento** — TypeScript, JavaScript, React, APIs REST, Next.js, React Native/Expo, Hono, Publicação de apps na Google Play Store (compliance, closed testing, Data Safety)
 
-**Desenvolvimento Fullstack**
-- TypeScript
-- JavaScript
-- APIs REST
-- Arquitetura de aplicações web
+**Dados** — PostgreSQL, Prisma, Python, Pandas, NumPy, Scikit-learn, Power BI
 
-**Backend & Banco de Dados**
-- PostgreSQL
-- SQL
-- Modelagem de dados
+**IA & Automação** — Agentes de IA, RAG, integração de LLMs, Claude Code, Machine Learning, Computer Vision, Deep Learning, Reinforcement Learning, n8n
 
-**Dados & BI**
-- Python
-- Pandas, NumPy, Scikit-Learn
-- Power BI
-
-**IA & Automação**
-- IA aplicada a negócios
-- Desenvolvimento de agentes inteligentes
-- Automação de processos com n8n
-
-**Infraestrutura**
-- Docker
-- Git / GitHub
-
-**Metodologias**
-- Scrum
-- Kanban
-</details>
-
----
-
-## Objetivo com este GitHub
-
-Este repositório reúne projetos e experimentos que refletem minha atuação em **tecnologia aplicada a problemas reais**.
-
-Aqui estão documentadas soluções, testes e sistemas que fizeram sentido em contextos práticos — não apenas projetos demonstrativos.
+**Infra & Cloud** — VPS (administração e deploy), Docker, Git, Azure (em aprendizado), GCP (em aprendizado)
 
 ---
 
 ## Contato
 
-- LinkedIn: https://linkedin.com/in/kaiosoaresalves  
-- Email: contato.dev.kaio@gmail.com  
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesskaio&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alvesskaio&theme=radical" />
-</div>
+- LinkedIn: [linkedin.com/in/kaiosoaresalves](https://linkedin.com/in/kaiosoaresalves)
+- Email: contato.dev.kaio@gmail.com

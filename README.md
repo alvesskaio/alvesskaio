@@ -11,7 +11,7 @@ Rio de Janeiro, Brasil
 
 Desenvolvedor fullstack com foco em produtos B2B, automação e IA aplicada a problemas operacionais reais — do levantamento do problema até a entrega técnica (arquitetura, stack, execução).
 
-Não me limito ao papel de desenvolvedor: fui cofundador de uma agência de automação, sou criador técnico do FOCO Check e mantenho projetos  como LogFácil — escopos diferentes que exigiram tanto código quanto decisão de negócio.
+Não me limito ao papel de desenvolvedor: fui cofundador de uma agência de automação, sou criador técnico do FOCO Check e mantenho projeto como LogFácil — escopos diferentes que exigiram tanto código quanto decisão de negócio.
 
 Formado em Ciência de Dados e IA pelo Ibmec, com foco em Machine Learning, Computer Vision, Deep Learning e Reinforcement Learning. Atuo hoje como desenvolvedor/contratado na **iNeeds Systems**, no LogFácil.
 

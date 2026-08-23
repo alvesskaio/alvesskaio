@@ -71,29 +71,41 @@ Estruturação de dados de atletas e partidas em métricas e indicadores para ap
 
 ## Stack
 
-**Desenvolvimento**
+**IA & Automação**
 <br>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" alt="TypeScript, JavaScript, React, Next.js"/>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="OpenCV, PyTorch, TensorFlow"/>
 <br>
-<sub>+ APIs REST, React Native/Expo, Hono, publicação de apps na Google Play Store (compliance, closed testing, Data Safety)</sub>
+![Agentes de IA](https://img.shields.io/badge/Agentes%20de%20IA-8b5cf6?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6366f1?style=flat-square)
+![Integração de LLMs](https://img.shields.io/badge/Integra%C3%A7%C3%A3o%20de%20LLMs-06b6d4?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-f59e0b?style=flat-square)
 
 **Dados**
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,prisma,py,sklearn" alt="PostgreSQL, Prisma, Python, Scikit-learn"/>
 <br>
-<sub>+ Pandas, NumPy, Power BI</sub>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
 
-**IA & Automação**
+**Desenvolvimento**
 <br>
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="OpenCV, PyTorch, TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" alt="TypeScript, JavaScript, React, Next.js"/>
 <br>
-<sub>+ Agentes de IA, RAG, integração de LLMs, Claude Code, Reinforcement Learning, n8n</sub>
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![React Native/Expo](https://img.shields.io/badge/React%20Native%2FExpo-000020?style=flat-square&logo=expo&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-64748b?style=flat-square)
+<br>
+![App na Google Play Store](https://img.shields.io/badge/App%20na%20Google%20Play%20Store-01875f?style=flat-square&logo=googleplay&logoColor=white)
 
 **Infra & Cloud**
 <br>
 <img src="https://skillicons.dev/icons?i=docker,git,azure,gcp" alt="Docker, Git, Azure, GCP"/>
 <br>
-<sub>+ VPS (administração e deploy) — Azure e GCP em aprendizado</sub>
+![VPS](https://img.shields.io/badge/VPS%20(administra%C3%A7%C3%A3o%20e%20deploy)-64748b?style=flat-square)
+<sub>Azure e GCP em aprendizado</sub>
 
 ---
 

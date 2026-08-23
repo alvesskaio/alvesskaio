@@ -105,6 +105,7 @@ Estruturação de dados de atletas e partidas em métricas e indicadores para ap
 <img src="https://skillicons.dev/icons?i=docker,git,azure,gcp" alt="Docker, Git, Azure, GCP"/>
 <br>
 ![VPS](https://img.shields.io/badge/VPS%20(administra%C3%A7%C3%A3o%20e%20deploy)-64748b?style=flat-square)
+<br>
 <sub>Azure e GCP em aprendizado</sub>
 
 ---

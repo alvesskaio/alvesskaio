@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="assets/tagline.svg" alt="Automação B2B que economiza tempo real, Produtos de dados para decisão, IA aplicada a operações reais, Do problema à entrega técnica"/>
+<strong>Automação B2B • Produtos de Dados • IA para Operações Reais</strong>
 </p>
 
 <p align="center">

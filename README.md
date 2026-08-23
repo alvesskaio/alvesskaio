@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=200&section=header&text=Kaio%20Alves&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20B2B%20%E2%80%94%20Dados%2C%20Automa%C3%A7%C3%A3o%20%26%20IA&descAlignY=55&descSize=16" alt="Header banner" width="100%"/>
+<img src="assets/banner.svg" alt="Header banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -63,6 +63,12 @@ Estruturação de dados de atletas e partidas em métricas e indicadores para ap
 <img src="https://skillicons.dev/icons?i=docker,git,azure,gcp" alt="Docker, Git, Azure, GCP"/>
 <br>
 <sub>+ VPS (administração e deploy) — Azure e GCP em aprendizado</sub>
+
+---
+
+<p align="center">
+<img src="assets/userstats.svg" alt="Estatísticas do GitHub"/>
+</p>
 
 ---
 

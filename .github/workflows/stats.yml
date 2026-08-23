@@ -1,0 +1,29 @@
+name: Update GitHub stats card
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats SVG
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: assets/userstats.svg
+          colors: dark
+          include-title: true
+          custom-title: 'Estatísticas do GitHub'
+          max-languages: 6
+          category-order: repositories, contributions, languages
+          commit-and-push: true
+          commit-message: 'Update GitHub stats card'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

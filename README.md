@@ -96,10 +96,6 @@ Estruturação de dados de atletas e partidas em métricas e indicadores para ap
 <img src="assets/userstats.svg" alt="Estatísticas do GitHub"/>
 </p>
 
-<p align="center">
-<img src="assets/toplangs.svg" alt="Linguagens mais usadas"/>
-</p>
-
 ---
 
 <p align="center">

@@ -1,4 +1,4 @@
-name: Update GitHub stats cards
+name: Update GitHub stats card
 
 on:
   schedule:
@@ -22,22 +22,7 @@ jobs:
           include-title: true
           custom-title: 'Estatísticas do GitHub'
           category-order: repositories, contributions
-          commit-and-push: false
+          commit-and-push: true
+          commit-message: 'Update GitHub stats card'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages SVG
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&disable_animations=true
-          path: assets/toplangs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/userstats.svg assets/toplangs.svg
-          git diff --cached --quiet || git commit -m "Update GitHub stats cards"
-          git push

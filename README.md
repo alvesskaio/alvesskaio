@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+<a href="https://kaioalves.dev.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
 <a href="https://www.linkedin.com/in/kaiosoaresalves/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:contato.dev.kaio@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
